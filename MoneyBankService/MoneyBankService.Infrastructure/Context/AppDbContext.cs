@@ -1,6 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Design;
-using MySql.EntityFrameworkCore;
+﻿// MoneyBankService.Infrastructure/Context/AppDbContext.cs
+using Microsoft.EntityFrameworkCore;
 using MoneyBankService.Domain.Entities;
 
 namespace MoneyBankService.Infrastructure.Context;
@@ -15,5 +14,5 @@ public class AppDbContext : DbContext
     {
     }
 
-    public DbSet<Account> Account{ get; set; }
+    public DbSet<Account> Accounts { get; set; } // Cambiado a plural "Accounts"
 }

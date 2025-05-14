@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MoneyBankService.Domain\\Entities",
-    "\\MoneyBankService.Infrastructure",
-    "\\MoneyBankService.Infrastructure\\Context"
+    "\\MoneyBankService.Api\\Controllers",
+    "\\MoneyBankService.Api\\Extensions",
+    "\\MoneyBankService.Application\\Services"
   ],
-  "SelectedNode": "\\MoneyBankService.Infrastructure\\Context\\AppDbContext.cs",
+  "SelectedNode": "\\MoneyBankService.sln",
   "PreviewInSolutionExplorer": false
 }
