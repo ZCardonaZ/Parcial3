@@ -4,3 +4,17 @@ C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.AssemblyInfo.cs
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.sourcelink.json
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Infrastructure.deps.json
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Infrastructure.runtimeconfig.json
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Infrastructure.dll
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Infrastructure.pdb
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Application.dll
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Domain.dll
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Application.pdb
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\bin\Debug\net8.0\MoneyBankService.Domain.pdb
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBan.DA8D0A9D.Up2Date
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.dll
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\refint\MoneyBankService.Infrastructure.dll
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.pdb
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.genruntimeconfig.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\ref\MoneyBankService.Infrastructure.dll

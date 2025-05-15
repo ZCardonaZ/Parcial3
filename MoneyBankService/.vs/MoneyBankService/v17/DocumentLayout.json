@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Dto\\TransactionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Api\\Dto\\TransactionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Dto\\AccountDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Api\\Dto\\AccountDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Api\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\IAccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Application\\Interfaces\\IAccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Mappers\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Api\\Mappers\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Application\\Services\\AccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Application\\Services\\AccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoneyBankService.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,78 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransactionDto.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Dto\\TransactionDto.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Dto\\TransactionDto.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Dto\\TransactionDto.cs",
-              "RelativeToolTip": "MoneyBankService.Api\\Dto\\TransactionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:57:28.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "MoneyBankService.Api\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:47:06.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountDto.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Dto\\AccountDto.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Dto\\AccountDto.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Dto\\AccountDto.cs*",
-              "RelativeToolTip": "MoneyBankService.Api\\Dto\\AccountDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyBankService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
+              "RelativeToolTip": "MoneyBankService.Api\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:42:38.946Z",
+              "WhenOpened": "2025-05-15T03:04:44.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\IAccountService.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Interfaces\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Application\\Interfaces\\IAccountService.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Interfaces\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:45:44.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Mappers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Api\\Mappers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Mappers\\MappingProfile.cs",
-              "RelativeToolTip": "MoneyBankService.Api\\Mappers\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:47:31.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Application\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "MoneyBankService.Application\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Application\\Services\\AccountService.cs",
-              "RelativeToolTip": "MoneyBankService.Application\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:45:40.159Z"
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MoneyBankService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\Parcial3\\MoneyBankService\\MoneyBankService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MoneyBankService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T02:58:14.062Z",
+              "EditorCaption": ""
             }
           ]
         }
