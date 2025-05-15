@@ -1,10 +1,3 @@
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.csproj.AssemblyReference.cache
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.AssemblyInfoInputs.cache
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.AssemblyInfo.cs
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.csproj.CoreCompileInputs.cache
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.sourcelink.json
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\net8.0\appsettings.json
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\net8.0\MoneyBankService.Api.staticwebassets.endpoints.json
@@ -64,6 +57,14 @@ C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\net8.0\MoneyBankService.Application.pdb
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\net8.0\MoneyBankService.Infrastructure.pdb
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\bin\Debug\net8.0\MoneyBankService.Domain.pdb
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.AssemblyInfo.cs
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.sourcelink.json
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\scopedcss\bundle\MoneyBankService.Api.styles.css
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -74,7 +75,6 @@ C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoneyBankService.Api.props
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoneyBankService.Api.props
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBan.E11D7653.Up2Date
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\MoneyBankService.Api.dll
 C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Api\obj\Debug\net8.0\refint\MoneyBankService.Api.dll

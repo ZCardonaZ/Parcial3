@@ -2,7 +2,6 @@
   "ExpandedNodes": [
     "",
     "\\MoneyBankService.Api",
-    "\\MoneyBankService.Api\\bin\\Debug",
     "\\MoneyBankService.Api\\Properties",
     "\\MoneyBankService.Api\\Validators",
     "\\MoneyBankService.Application",
