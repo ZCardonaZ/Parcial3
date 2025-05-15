@@ -1,7 +1,7 @@
 ﻿// MoneyBankService.Api/Controllers/AccountsController.cs
 using Microsoft.AspNetCore.Mvc;
 using MoneyBankService.Application.Interfaces; // Para IAccountService
-using MoneyBankService.Api.Dto; // Para AccountDto
+using MoneyBankService.Application.Dto; // Para AccountDto
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using MoneyBankService.Domain.Exceptions; // Para el manejo de excepciones si el servicio las lanza directamente

@@ -1,6 +1,4 @@
-﻿
-using MoneyBankService.Api.Dto; // Necesitarás este using para AccountDto y TransactionDto
-using System.Collections.Generic;
+﻿using MoneyBankService.Application.Dto;
 using System.Threading.Tasks;
 
 namespace MoneyBankService.Application.Interfaces;

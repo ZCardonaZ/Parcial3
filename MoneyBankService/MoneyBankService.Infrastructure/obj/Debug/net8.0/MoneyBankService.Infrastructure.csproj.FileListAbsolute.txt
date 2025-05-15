@@ -1,0 +1,6 @@
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.AssemblyInfo.cs
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Parcial3\MoneyBankService\MoneyBankService.Infrastructure\obj\Debug\net8.0\MoneyBankService.Infrastructure.sourcelink.json

@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\MoneyBankService.Api",
     "\\MoneyBankService.Api\\Controllers",
-    "\\MoneyBankService.Api\\Extensions",
-    "\\MoneyBankService.Application\\Services"
+    "\\MoneyBankService.Api\\Dto",
+    "\\MoneyBankService.Api\\Validators",
+    "\\MoneyBankService.Application"
   ],
-  "SelectedNode": "\\MoneyBankService.sln",
+  "SelectedNode": "\\MoneyBankService.Api\\Dto\\TransactionDto.cs",
   "PreviewInSolutionExplorer": false
 }

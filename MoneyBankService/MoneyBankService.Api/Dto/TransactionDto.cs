@@ -1,7 +1,6 @@
-﻿
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace MoneyBankService.Api.Dto;
+namespace MoneyBankService.Application.Dto;
 
 public class TransactionDto
 {

@@ -1,6 +1,6 @@
 ﻿using AutoMapper; 
 using MoneyBankService.Application.Interfaces;
-using MoneyBankService.Api.Dto; 
+using MoneyBankService.Application.Dto;
 using MoneyBankService.Domain.Entities;
 using MoneyBankService.Domain.Interfaces.Repositories; 
 using MoneyBankService.Domain.Exceptions; 
