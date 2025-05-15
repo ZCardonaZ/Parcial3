@@ -8,6 +8,6 @@
     "\\MoneyBankService.Domain",
     "\\MoneyBankService.Infrastructure"
   ],
-  "SelectedNode": "\\MoneyBankService.Api\\Program.cs",
+  "SelectedNode": "\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
   "PreviewInSolutionExplorer": false
 }
